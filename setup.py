@@ -23,7 +23,11 @@ VERSION = None
 # What packages are required for this module to be executed?
 REQUIRED = [
     'altair',
-    'pandas'
+    'pandas',
+    'altair',
+    'vega_datasets',
+    'notebook',
+    'vega'
     # 'requests', 'maya', 'records',
 ]
 
